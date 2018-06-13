@@ -1,0 +1,19 @@
+{
+  "name": "biblestudy",
+  "version": "1.0.0",
+  "description": "성경공부 주제별 성구 정리",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangheejune/BibleStudy.git"
+  },
+  "author": "heejuneyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangheejune/BibleStudy/issues"
+  },
+  "homepage": "https://github.com/yangheejune/BibleStudy#readme"
+}
